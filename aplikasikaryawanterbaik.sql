@@ -46,19 +46,19 @@ CREATE TABLE `karyawan` (
 --
 
 INSERT INTO `karyawan` (`id_karyawan`, `nama_karyawan`, `nik`, `alamat`, `no_hp`, `pendidikan`, `status`, `username`, `password`, `id_level`, `proses`) VALUES
-(1, 'Is Suryani', '0000-00-00', 'semarang', '081326632236', 'Strata 1', 'Tetap', 'admin', 'admin', 1, 1),
-(2, 'Elizabeth Drimierda Primasari', '0000-00-00', 'semarang', '0812345678', 'Strata 2', 'Tetap', 'manager', 'manager', 2, 0),
-(3, 'Sigit Yulianto', '0000-00-00', 'semarang', '0812345679', 'Strata 1', 'Tetap', 'supervisor', 'supervisor', 2, 0),
-(4, 'Bernadus Adi Dewanto', '0000-00-00', 'semarang', '08123456710', 'Strata 1', 'Tetap', 'supervisor2', 'supervisor2', 3, 0),
-(5, 'Bambang Broto', '0000-00-00', 'semarang', '08123456711', 'Strata 1', 'Tetap', 'supervisor3', 'supervisor3', 3, 0),
-(6, 'Ismedi Yuliarso', '0000-00-00', 'semarang', '08123456712', 'Strata 1', 'Tetap', 'supervisor4', 'supervisor4', 3, 0),
-(7, 'Henox Claudian', '0000-00-00', 'semarang', '082345678911', 'SMA', 'Tetap', '', '', 4, 1),
-(8, 'Sumanto', '0000-00-00', 'semarang', '082345678912', 'SMK', 'Kontrak', '', '', 4, 1),
-(9, 'Triyanti', '0000-00-00', 'semarang', '082345678912', 'SMK', 'Kontrak', '', '', 4, 1),
-(10, 'Pasiran', '0000-00-00', 'semarang', '082345678914', 'SMK', 'Kontrak', '', '', 4, 1),
-(11, 'Elda Yunita Sari', '0000-00-00', 'semarang', '082345678915', 'SMK', 'Tetap', '', '', 4, 1),
-(14, 'test', '0000-00-00', 'palembang', '081326632236', 'SMA', 'Outsource', '', '', 4, 0),
-(15, 'rian', '0000-00-00', 'semarang', '086554688', 'SMA', 'Outsource', '', '', 4, 0);
+(1, 'Is Suryani', '2017-01-01', 'semarang', '081326632236', 'Strata 1', 'Tetap', 'admin', 'admin', 1, 1),
+(2, 'Elizabeth Drimierda Primasari', '1998-08-08', 'semarang', '0812345678', 'Strata 2', 'Tetap', 'manager', 'manager', 2, 0),
+(3, 'Sigit Yulianto', '1988-09-09', 'semarang', '0812345679', 'Strata 1', 'Tetap', 'supervisor', 'supervisor', 2, 0),
+(4, 'Bernadus Adi Dewanto', '1988-09-09', 'semarang', '08123456710', 'Strata 1', 'Tetap', 'supervisor2', 'supervisor2', 3, 0),
+(5, 'Bambang Broto', '1988-09-09', 'semarang', '08123456711', 'Strata 1', 'Tetap', 'supervisor3', 'supervisor3', 3, 0),
+(6, 'Ismedi Yuliarso', '1988-09-09', 'semarang', '08123456712', 'Strata 1', 'Tetap', 'supervisor4', 'supervisor4', 3, 0),
+(7, 'Henox Claudian', '1995-10-10', 'semarang', '082345678911', 'SMA', 'Tetap', '', '', 4, 1),
+(8, 'Sumanto', '1995-10-10', 'semarang', '082345678912', 'SMK', 'Kontrak', '', '', 4, 1),
+(9, 'Triyanti', '1995-10-10', 'semarang', '082345678912', 'SMK', 'Kontrak', '', '', 4, 1),
+(10, 'Pasiran', '1995-10-10', 'semarang', '082345678914', 'SMK', 'Kontrak', '', '', 4, 1),
+(11, 'Elda Yunita Sari', '1995-10-10', 'semarang', '082345678915', 'SMK', 'Tetap', '', '', 4, 1),
+(14, 'test', '1995-10-10', 'palembang', '081326632236', 'SMA', 'Outsource', '', '', 4, 0),
+(15, 'rian', '1998-08-08', 'semarang', '086554688', 'SMA', 'Outsource', '', '', 4, 0);
 
 -- --------------------------------------------------------
 
